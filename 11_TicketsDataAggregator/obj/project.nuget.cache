@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vy3qt38DQzYZTpb7j0DyPQodd7/YXjQB3iPFgIA4BtmzqDGzyLwPn70nMFAKcGHFHc/siw0X+abWTUejom+K6g==",
+  "success": true,
+  "projectFilePath": "C:\\fullstack\\udemy-C#\\UltimateCSharpMasterclass-main\\11_TicketsDataAggregator\\11_TicketsDataAggregator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\moham\\.nuget\\packages\\pdfpig\\0.1.7\\pdfpig.0.1.7.nupkg.sha512"
+  ],
+  "logs": []
+}
